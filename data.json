@@ -7,7 +7,8 @@
     "nombre_de_pièces": 6,
     "nombre_de_chambres": 4,
     "superficie": 220,
-    "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "description": "decription"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "nombre_de_pièces": 3,
     "nombre_de_chambres": 2,
     "superficie": 90,
-    "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "description": "decription"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "nombre_de_pièces": 5,
     "nombre_de_chambres": 3,
     "superficie": 180,
-    "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "description": "decription"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "nombre_de_pièces": 1,
     "nombre_de_chambres": 0,
     "superficie": 30,
-    "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "description": "decription"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "nombre_de_pièces": 4,
     "nombre_de_chambres": 3,
     "superficie": 120,
-    "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "description": "decription"
   },
   {
     "id": 6,
@@ -57,6 +62,7 @@
     "nombre_de_pièces": 4,
     "nombre_de_chambres": 2,
     "superficie": 100,
-    "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "description": "decription"
   }
 ]
