@@ -19,7 +19,7 @@
         , "nombre_de_pieces": 3
         , "nombre_de_chambres": 2
         , "superficie": 90
-        , "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+        , "images": ["appartement1.png", "appartement2.png", "appartement3.png"]
         , "description": "Un appartement cozy"
         , "latitude": 47.8583
         , "longitude": 2.3944
