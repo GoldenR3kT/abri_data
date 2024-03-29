@@ -6,7 +6,7 @@
         , "nombre_de_pieces": 6
         , "nombre_de_chambres": 4
         , "superficie": 220
-        , "images": ["tente1.jpg", "image2.jpg", "tente3.jpg"]
+        , "images": ["tente1.jpg", "tente2.jpg", "tente3.jpg"]
         , "description": "Petite villa avec une belle vue"
         , "latitude": 48.8583
         , "longitude": 2.2944
