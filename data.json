@@ -45,7 +45,7 @@
         , "nombre_de_pieces": 1
         , "nombre_de_chambres": 0
         , "superficie": 30
-        , "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+        , "images": ["studio1.png", "studio2.png", "studio3.png"]
         , "description": "Ptit studio d'etudiant"
         , "latitude": 49.8583
         , "longitude": 2.2944
