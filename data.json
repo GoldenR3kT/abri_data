@@ -32,7 +32,7 @@
         , "nombre_de_pieces": 5
         , "nombre_de_chambres": 3
         , "superficie": 180
-        , "images": ["image1.jpg", "image2.jpg", "image3.jpg"]
+        , "images": ["maison1.png", "maison2.png", "maison3.png"]
         , "description": "Maison pour une famille nombreuse"
         , "latitude": 46.8583
         , "longitude": 2.2944
