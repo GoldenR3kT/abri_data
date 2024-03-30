@@ -1,6 +1,7 @@
 [{
         "id": 1
         , "nom": "Villa Belle Vue"
+        , "type": "Maison"
         , "prix": 350000
         , "adresse": "adresse"
         , "nombre_de_pieces": 6
@@ -14,6 +15,7 @@
     , {
         "id": 2
         , "nom": "Appartement Cosy"
+        , "type": "Appartement"
         , "prix": 150000
         , "adresse": "adresse"
         , "nombre_de_pieces": 3
@@ -27,6 +29,7 @@
     , {
         "id": 3
         , "nom": "Maison Familiale"
+        , "type": "Maison"
         , "prix": 280000
         , "adresse": "adresse"
         , "nombre_de_pieces": 5
@@ -40,6 +43,7 @@
     , {
         "id": 4
         , "nom": "Studio"
+        , "type": "Appartement"
         , "prix": 80000
         , "adresse": "adresse"
         , "nombre_de_pieces": 1
@@ -53,6 +57,7 @@
     , {
         "id": 5
         , "nom": "Appartement de Luxe"
+        , "type": "Appartement"
         , "prix": 500000
         , "adresse": "adresse"
         , "nombre_de_pieces": 4
@@ -66,6 +71,7 @@
     , {
         "id": 6
         , "nom": "Maison de Ville"
+        , "type": "Maison"
         , "prix": 200000
         , "adresse": "adresse"
         , "nombre_de_pieces": 4
