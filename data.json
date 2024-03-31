@@ -3,6 +3,7 @@
         , "nom": "Villa Belle Vue"
         , "type": "Maison"
         , "prix": 350000
+        , "note": 0.0
         , "adresse": "adresse"
         , "nombre_de_pieces": 6
         , "nombre_de_chambres": 4
@@ -17,6 +18,7 @@
         , "nom": "Appartement Cosy"
         , "type": "Appartement"
         , "prix": 150000
+        , "note": 0.0
         , "adresse": "adresse"
         , "nombre_de_pieces": 3
         , "nombre_de_chambres": 2
@@ -31,6 +33,7 @@
         , "nom": "Maison Familiale"
         , "type": "Maison"
         , "prix": 280000
+        , "note": 0.0
         , "adresse": "adresse"
         , "nombre_de_pieces": 5
         , "nombre_de_chambres": 3
@@ -45,6 +48,7 @@
         , "nom": "Studio"
         , "type": "Appartement"
         , "prix": 80000
+        , "note": 0.0
         , "adresse": "adresse"
         , "nombre_de_pieces": 1
         , "nombre_de_chambres": 0
@@ -59,6 +63,7 @@
         , "nom": "Appartement de Luxe"
         , "type": "Appartement"
         , "prix": 500000
+        , "note": 0.0
         , "adresse": "adresse"
         , "nombre_de_pieces": 4
         , "nombre_de_chambres": 3
@@ -73,6 +78,7 @@
         , "nom": "Maison de Ville"
         , "type": "Maison"
         , "prix": 200000
+        , "note": 0.0
         , "adresse": "adresse"
         , "nombre_de_pieces": 4
         , "nombre_de_chambres": 2
