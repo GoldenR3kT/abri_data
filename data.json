@@ -70,8 +70,8 @@
         , "superficie": 120
         , "images": ["appartement_luxe1.png", "appartement_luxe2.png", "appartement_luxe3.png"]
         , "description": "Appart de luxe bien riche"
-        , "latitude": 48.8583
-        , "longitude": 3.2944
+        , "latitude": 44.8583
+        , "longitude": -120.57
   }
     , {
         "id": 6
@@ -86,6 +86,6 @@
         , "images": ["maison_ville1.png", "maison_ville2.png", "maison_ville3.png"]
         , "description": "La maison dans la ville"
         , "latitude": 48.8583
-        , "longitude": 1.2944
+        , "longitude": -122.407437
   }
 ]
