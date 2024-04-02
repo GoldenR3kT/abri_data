@@ -12,7 +12,7 @@
         , "description": "Petite villa avec une belle vue"
         , "latitude": 48.8583
         , "longitude": 2.2944
-        , "localisation": "Paris"
+        
   }
     , {
         "id": 2
@@ -28,7 +28,7 @@
         , "description": "Un appartement cozy"
         , "latitude": 47.8583
         , "longitude": 2.3944
-        , "localisation": "Paris"
+        
   }
     , {
         "id": 3
@@ -44,7 +44,6 @@
         , "description": "Maison pour une famille nombreuse"
         , "latitude": 46.8583
         , "longitude": 2.2944
-        , "localisation": "Paris"
   }
     , {
         "id": 4
@@ -60,7 +59,6 @@
         , "description": "Ptit studio d'etudiant"
         , "latitude": 49.8583
         , "longitude": 2.2944
-        , "localisation": "Paris"
   }
     , {
         "id": 5
@@ -76,7 +74,6 @@
         , "description": "Appart de luxe bien riche"
         , "latitude": 37.8
         , "longitude": -120.57
-        , "localisation": "San Francisco"
   }
     , {
         "id": 6
@@ -92,6 +89,5 @@
         , "description": "La maison dans la ville"
         , "latitude": 37.787994
         , "longitude": -122.407437
-        , "localisation": "San Francisco"
   }
 ]
