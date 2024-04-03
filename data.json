@@ -94,4 +94,20 @@
         , "longitude": -122.407437
         , "localisation": "San Francisco"
   }
+     , {
+        "id": 7
+        , "nom": "Cabane de fer"
+        , "type": "Abris"
+        , "prix": 499.99
+        , "note": 4.9
+        , "adresse": "adresse"
+        , "nombre_de_pieces": 3
+        , "nombre_de_chambres": 2
+        , "superficie": 10
+        , "images": ["bd1.jpg", "bd2.jpg", "bd3.png"]
+        , "description": "La cabane dans le bidonville"
+        , "latitude": 8.464806
+        , "longitude": -11.795934
+        , "localisation": "Sierra"
+  }
 ]
