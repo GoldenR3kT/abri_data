@@ -110,4 +110,36 @@
         , "longitude": -11.795934
         , "localisation": "Sierra"
   }
+        ,{
+                id": 7
+        , "nom": "Cabane de luxe"
+        , "type": "Abris"
+        , "prix": 1526
+        , "note": 4.3
+        , "adresse": "adresse"
+        , "nombre_de_pieces": 1
+        , "nombre_de_chambres": 1
+        , "superficie": 5
+        , "images": ["sdfluxe1.jpg", "sdfluxe2.jpg", "sdfluxe3.jpg"]
+        , "description": "borne autolib de sdf"
+        , "latitude": 48.74415
+        , "longitude": 2.370532
+        , "localisation": "Paris"
+  }
+        , {
+        "id": 8
+        , "nom": "Abris de la hess"
+        , "type": "Abris"
+        , "prix": 339.99
+        , "note": 2.1
+        , "adresse": "adresse"
+        , "nombre_de_pieces": 1
+        , "nombre_de_chambres": 1
+        , "superficie": 3
+        , "images": ["hess1.jpg", "hess2.jpg"]
+        , "description": "abris dans paris de la hess"
+        , "latitude": 48.76317
+        , "longitude": 2.428468
+        , "localisation": "Paris"
+  }
 ]
