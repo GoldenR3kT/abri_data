@@ -1,7 +1,7 @@
 [{
         "id": 1
         , "nom": "Tente"
-        , "type": "Maison"
+        , "type": "Abris"
         , "prix": 200
         , "note": 4.7
         , "adresse": "adresse"
