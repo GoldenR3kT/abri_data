@@ -111,7 +111,7 @@
         , "localisation": "Sierra"
   }
         ,{
-                id": 7
+        "id": 8
         , "nom": "Cabane de luxe"
         , "type": "Abris"
         , "prix": 1526
@@ -127,7 +127,7 @@
         , "localisation": "Paris"
   }
         , {
-        "id": 8
+        "id": 9
         , "nom": "Abris de la hess"
         , "type": "Abris"
         , "prix": 339.99
