@@ -1,15 +1,15 @@
 [{
         "id": 1
-        , "nom": "Villa Belle Vue"
+        , "nom": "Tente"
         , "type": "Maison"
-        , "prix": 350000
+        , "prix": 200
         , "note": 4.7
         , "adresse": "adresse"
-        , "nombre_de_pieces": 6
-        , "nombre_de_chambres": 4
-        , "superficie": 220
+        , "nombre_de_pieces": 1
+        , "nombre_de_chambres": 1
+        , "superficie": 3
         , "images": ["tente1.jpg", "tente2.jpg", "tente3.jpg"]
-        , "description": "Petite villa avec une belle vue"
+        , "description": "Petite tente très comfortable pour une personne"
         , "latitude": 48.8583
         , "longitude": 2.2944
         , "localisation": "Paris"
